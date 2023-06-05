@@ -2,11 +2,11 @@
 #### Proje Sorumlusu 
 - 192523215 Şaban TUNÇ
 - Bu proje İskenderun Teknik Üniversitesi Oyun Programlama Dersi Levent KARACAN'a sunulmak üzere hazırlanmaktadır.
-## Puzzle Oyunu 
+## Kale Direği Vurma Oyunu 
 ### Oyun Nasıl oynanır?
-- Resme bakacaksınız, daha sonra resim bölümlere ayrılarak dağılacak.
-- Ortada bir boşluk oluşacak ve resim o boşluğa sürüklenerek orjinal hale getirilmeye çalışılacak.
-- Resme tıkladıpınız zaman oto olarak boşluğun yerine geçmektedir.
+- Fareyle topun üzerine tıkladığınızda top bombe ve ivme kazanacak.
+- Mesafe arası biraz uzak ve topu sürekli kontrol halinde tutmanız gerecek.
+- Direği tutturduğunuzda puan kazanacaksınız.
 
 ---
 
